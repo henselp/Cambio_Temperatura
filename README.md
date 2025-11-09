@@ -2,9 +2,9 @@
 
 # Programa: Tecnología en Desarrollo de Software
 
-# Curso: Herramientas de programación II (ET0051)
+- Curso: Herramientas de programación II (ET0051)
 
-# Profesor: Fray Osorio
+- Profesor: Fray Osorio
 
 
 Proposito
